@@ -159,10 +159,119 @@
 
 
 
-    
 
 
 
+
+<a href="https://github.com/Samuelllks/panda12332145/blob/main/dlo.gif">
+  <img src="https://raw.githubusercontent.com/panda12332145/panda12332145/main/dlo.gif" alt="Dlo GIF" width="100%" height="50%"/>
+</a>
+
+<center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FF00FF&vCenter=true&random=false&width=620&lines=Heyo!+I+am+Panda;and+this+is+my+profile+I+hope+you+like+it;I'm+from+Brazil%2C+(MG%2FBH);I'm+a+Computer+Science+student;with+a+postgraduate+degree+in+Cybersecurity%2FHacking;and+student+of+theoretical+physics;I'm+18+years+old;My+beautiful+girlfriend%3A+larii.dourado_s2" alt="Typing SVG" />
+  </a>
+</center>
+<h4 align="left">🌟Atualmente, estou cursando Ciência da Computação, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
+<br> </h4>
+
+
+  <!--<p style="font-size: 0.9em;">Para ouvir a estação de radio da UDR, <a href="https://zeno.fm/player/udr-all-discography-music-radio-web" target="_blank">clique aqui</a>.</p>-->
+  <!--<p style="font-size: 0.9em;">Para ouvir Lofi, <a href="https://open.spotify.com/embed/playlist/0sKK9n4LJXjEErNyoZEvcK?utm_source=generator" target="_blank">clique aqui</a>.</p>
+</div>-->
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+
+ <h2>🤙 a little about myself</h2>
+ <div align="left">
+<img src="https://komarev.com/ghpvc/?username=panda12332145&color=ff69b4&style=flat">
+<br>
+</div>
+<img align="right" alt="coding-gif" width="400" height="250" src="https://github.com/panda12332145/panda12332145/blob/main/coding.gif">
+<a>
+- Como estudante de cibersegurança, iniciei meu percurso no mundo da programação aos sete anos de idade. Desde então, dediquei-me ao estudo de diversas linguagens, incluindo HTML, CSS, JavaScript, Powershell, Lua, Ruby, Assembly x86, Pascal, ShellScript, PHP, Python, BatchScript e COBOL. Minha paixão pela cibersegurança e hacking me levou a explorar não apenas a programação, mas também a física teórica. Sou entusiasta de desafios como CTF (Capture The Flag) e mergulho no mundo da fantasia através de RPG de mesa, como o D&D. Além disso, tenho um apreço especial por MUD (Multi-User Dungeon). Atualmente, concentro meus esforços no estudo da engenharia reversa de malwares. Possuo proficiência em C++, PHP, Powershell e ShellScript, buscando constantemente aprimorar minhas habilidades e conhecimentos nesses domínios.
+</a>
+
+<h3>🌟 GeostationaryOrbit:</h3>
+<h4 align="left">A órbita geoestacionária 🌍 é uma órbita circular a cerca de 35.786 km 🚀 da Terra 🌐, onde o satélite 🛰️ se move com a mesma velocidade angular de rotação do planeta 🌪️. Isso faz com que o satélite pareça ficar fixo sobre um ponto específico da superfície 🌞. É usada em satélites de comunicação 📞, meteorologia 🌧️ e outros serviços que necessitam de cobertura constante 🌈. </h4>
+<a href="https://www.instagram.com/samuelfranca0/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="50%" height="50%"></a> 
+
+  <h3>🌟 Reach Me on:</h3>
+
+<div align="center">
+  <a href="mailto: carp3016@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a />
+</div>
+
+
+<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
+
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,sublime,vim,github,git,stackoverflow,atom,arduino,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,raspberrypi,debian,php,python,javascript,mysql,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,pwsh,photoshop,java,htmx,neovim" /><br>
+</div>
+
+## 📈 Stats
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuelllks&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3>💻 Contaminated Machines Map by Tux Project: 🦠</h3>
+<a href="https://map-of-machines-infected-by-my-tuxpj.netlify.app/">
+  <img src="https://github.com/panda12332145/panda12332145/blob/main/Map.png" alt="Contaminated Machines Map" width="100%" height="100%" style="width:auto; height:auto"/>
+</a>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samuelllks&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+<div align="center">
+  <h2>💻 Tech Stack:</h2>
+     <br/>
+  <div align="center">
+   <img src="https://img.shields.io/badge/C-%23239120.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> 
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  </div>
+  <div align="center"> 
+  </div>
+
+<br/>
+
+### Languages I have proficiencies in:
+
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
+![Batch & ShellScript](https://img.shields.io/badge/-ShellScript&BatchScript-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+
+
+
+### Operating Systems:
+
+![ParrotOs](https://img.shields.io/badge/Parrot_Os-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+![Snake animation](https://github.com/panda12332145/panda12332145/blob/output/github-contribution-grid-snake.svg)
+
+
+<a href="https://github.com/panda12332145/panda12332145/blob/main/sak.gif">
+  <img src="https://github.com/panda12332145/panda12332145/blob/main/sak.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
+</a>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
+
+</div>
 
 
 
