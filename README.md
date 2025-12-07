@@ -169,10 +169,10 @@
 
 <center>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FF00FF&vCenter=true&random=false&width=620&lines=Heyo!+I+am+Brawn;and+this+is+my+profile+I+hope+you+like+it;I'm+from+Brazil%2C+(MG%2FBH);I'm+a+Computer+Science+student;with+a+postgraduate+degree+in+Cybersecurity%2FHacking;and+student+of+theoretical+physics;I'm+18+years+old;My+beautiful+girlfriend%3A+inexistente" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FF00FF&vCenter=true&random=false&width=620&lines=Heyo!+I+am+Brawn;and+this+is+my+profile+I+hope+you+like+it;I'm+from+Brazil%2C+(TO%2FSP);I'm+a+Computer+Science+student;with+a+postgraduate+degree+in+Cybersecurity%2FHacking;and+student+of+theoretical+physics;I'm+18+years+old;My+beautiful+girlfriend%3A+inexistente" alt="Typing SVG" />
   </a>
 </center>
-<h4 align="left">🌟Atualmente, estou cursando Ciência da Computação, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
+<h4 align="left">🌟Desde cedo, sempre me senti atraído pelo funcionamento escondido das coisas. Enquanto muita gente via um computador como uma caixa que faz milagres, eu via engrenagens invisíveis, códigos silenciosos e sistemas conversando entre si. Esse fascínio acabou me levando naturalmente para a Ciência da Computação, onde encontrei um universo inteiro esperando para ser desmontado, analisado e reconstruído. 💻🔐💸.
 <br> </h4>
 
 
@@ -190,7 +190,7 @@
 </div>
 <img align="right" alt="coding-gif" width="400" height="250" src="https://github.com/panda12332145/panda12332145/blob/main/coding.gif">
 <a>
-- Como estudante de cibersegurança, iniciei meu percurso no mundo da programação aos sete anos de idade. Desde então, dediquei-me ao estudo de diversas linguagens, incluindo HTML, CSS, JavaScript, Powershell, Lua, Ruby, Assembly x86, Pascal, ShellScript, PHP, Python, BatchScript e COBOL. Minha paixão pela cibersegurança e hacking me levou a explorar não apenas a programação, mas também a física teórica. Sou entusiasta de desafios como CTF (Capture The Flag) e mergulho no mundo da fantasia através de RPG de mesa, como o D&D. Além disso, tenho um apreço especial por MUD (Multi-User Dungeon). Atualmente, concentro meus esforços no estudo da engenharia reversa de malwares. Possuo proficiência em C++, PHP, Powershell e ShellScript, buscando constantemente aprimorar minhas habilidades e conhecimentos nesses domínios.
+- Com o passar do tempo, mergulhei nas áreas que mais despertavam minha curiosidade: cibersegurança, redes, engenharia reversa e tudo que envolvesse entender como proteger o que parece impossível de proteger. Entre estudos formais e experimentos próprios, fui moldando meu caminho rumo ao objetivo de me tornar um especialista capaz de contribuir para a pesquisa, a inovação e, claro, construir uma independência financeira baseada em conhecimento sólido..
 </a>
 
 <h3>🌟 GeostationaryOrbit:</h3>
