@@ -263,11 +263,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-![Snake animation](https://github.com/panda12332145/panda12332145/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Samuelllks/Samuelllks/blob/output/github-contribution-grid-snake.svg)
 
 
-<a href="https://github.com/panda12332145/panda12332145/blob/main/sak.gif">
-  <img src="https://github.com/panda12332145/panda12332145/blob/main/sak.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
+<a href="https://github.com/Samuelllks/samuelllks/blob/main/sak.gif">
+  <img src="https://github.com/Samuelllks/Samuelllks/blob/main/sak.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
 </a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
 
