@@ -4,13 +4,8 @@
         />
     </a>
 </p>
+
 ---
-
-
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuelllks&show_icons=true&theme=radical)
-
-
-
 <img
 src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
 
