@@ -4,8 +4,9 @@
         />
     </a>
 </p>
-
 ---
+<img
+src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
 
 ### 🤖 Linguagens e Tecnologias
 
