@@ -158,7 +158,7 @@ src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
 </p>
 <h3>🌟 GeostationaryOrbit:</h3>
 <h4 align="left">A órbita geoestacionária 🌍 é uma órbita circular a cerca de 35.786 km 🚀 da Terra 🌐, onde o satélite 🛰️ se move com a mesma velocidade angular de rotação do planeta 🌪️. Isso faz com que o satélite pareça ficar fixo sobre um ponto específico da superfície 🌞. É usada em satélites de comunicação 📞, meteorologia 🌧️ e outros serviços que necessitam de cobertura constante 🌈. </h4>
-<a href="https://www.instagram.com/samuelfranca0/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="50%" height="50%"></a> 
+<a href="https://www.instagram.com/samuelmendes0/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="50%" height="50%"></a> 
 
   <h3>🌟 Reach Me on:</h3>
 
