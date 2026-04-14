@@ -195,7 +195,7 @@ src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
 ![Snake animation](https://github.com/Samuelllks/Samuelllks/blob/output/github-contribution-grid-snake.svg)
 
 
-<a href="https://github.com/Samuelllks/samuelllks/blob/main/sak.gif">
+
   <img src="https://github.com/Samuelllks/Samuelllks/blob/main/sak.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
 </a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
