@@ -238,3 +238,33 @@ src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
   </p>
 
   <h3>🧰 Frameworks and Libraries
+
+
+
+
+
+  ```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00f7f7','primaryTextColor':'#ffffff','primaryBorderColor':'#00f7f7','lineColor':'#58a6ff','secondaryColor':'#1a1a2e','tertiaryColor':'#16213e','fontSize':'14px'}}}%%
+mindmap
+  root((🌌 GENHO<br/>AKADION))
+    🎵 MUSIC UNIVERSE
+      🎸 Musician & Artist
+      ✍️ Lyricist & Songwriter
+      🎛️ Audio Engineer
+      🎚️ Music Producer
+    💻 TECH DIMENSION
+      ⚙️ Full-Stack Developer
+      🔧 Tool & Language Builder
+      🤖 AI Integrator
+      📱 App Creator
+    🎨 CREATIVE REALM
+      🎬 Filmmaker & Director
+      🖌️ Visual Designer
+      ✏️ Writer & Storyteller
+      🎮 Game Developer
+    🚀 INNOVATION LAB
+      💡 Inventor & Architect
+      🌐 Visionary & Futurist
+      🧪 Experimenter
+      📐 Systems Designer
+```
