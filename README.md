@@ -132,7 +132,7 @@ src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
 
 <p align="center">
   <a href="https://github.com/Samuelllks/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Designer%203D;Dev%20Gamer;Front-end;Scripts;Marketing&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Designer%203D;Dev%20Gamer;Front-end;Scripts;FullStack&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
