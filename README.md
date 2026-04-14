@@ -182,9 +182,9 @@ src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuelllks&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Languages I have proficiencies in:
 
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
-![Batch & ShellScript](https://img.shields.io/badge/-ShellScript&BatchScript-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Descrição](https://logospng.org/download/python/logo-python-1024.png)
+
+![Descrição](https://upload.wikimedia.org/wikipedia/commons/d/d6/Scratch_Logo.svg)
 
 ### Operating Systems:
 
