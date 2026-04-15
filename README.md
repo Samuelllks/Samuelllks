@@ -186,6 +186,9 @@ src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
 
 ![Descrição](https://upload.wikimedia.org/wikipedia/commons/d/d6/Scratch_Logo.svg)
 
+
+![Descrição](https://upload.wikimedia.org/wikipedia/commons/3/31/Ada_horizon_green_logo_with_slogan.svg)
+
 ### Operating Systems:
 
 ![ParrotOs](https://img.shields.io/badge/Parrot_Os-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
