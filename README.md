@@ -182,7 +182,6 @@ src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuelllks&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Languages I have proficiencies in:
 
-![Descrição](https://logospng.org/download/python/logo-python-1024.png)
 
 ![Descrição](https://upload.wikimedia.org/wikipedia/commons/d/d6/Scratch_Logo.svg)
 
