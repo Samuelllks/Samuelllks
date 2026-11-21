@@ -163,7 +163,7 @@ src="https://komarev.com/ghpvc/?username=Samuelllks&color=ff69b4&style=flat">
   <h3>🌟 Reach Me on:</h3>
 
 <div align="center">
-  <a href="mailto: carp3016@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto: santamarianoticias2026@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a />
 </div>
 
